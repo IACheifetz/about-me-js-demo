@@ -7,7 +7,7 @@ const animal = document.getElementById('animalDiv');
 // set event listeners 
 showButton.addEventListener('click', () => {
     //console.log(' show button clicked ', 'validate button is connected');
-    animal.classList.remove('hidden');
+    animal.classList.toggle('hidden');
 });
     // get user input
     // use user input to update state 
