@@ -1,7 +1,7 @@
 body {
     /* feel free to update these css variables for a quick theme */
 
-    --color1: grey;
+    --color1: rgb(0, 0, 0);
     --color2: #d85e2a;
     --color3: #B7410E;
     --color4: #d85e2a;
@@ -21,8 +21,8 @@ body {
     --color4: hsla(45, 73%, 98%, 1);
     --color5: hsla(224, 40%, 79%, 1); */
 
-    --header-height: 150px;
-    --shadow: 0px 10px 20px -12px rgba(0, 0, 0, 0.45);
+    --header-height: 125px;
+    --shadow: 0px 20px 50px -12px rgba(0, 0, 0, 0.45);
     --gutter: 30px;
     --footer-height: 30px;
 
